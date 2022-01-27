@@ -1,6 +1,6 @@
-# Hi! 你好 I'm Joyesh
+# Hi
 
-## Connect with me:
+## Come suffer with me:
 <p align="left">
 <a href="https://twitter.com/iliketolearn_" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="ne3lakolkar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joyesh-meshram-10b89b219/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="ne3lakolkar" height="30" width="40" /></a>
