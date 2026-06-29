@@ -19,4 +19,4 @@ I enjoy analyzing messy problems, building practical solutions, and occasionally
 
 ## Connect
 
-[CV](./Joyesh_Meshram_CV.pdf) · [LinkedIn](https://linkedin.com/in/joyesh-meshram) · [Email](mailto:polixonrio@gmail.com)
+[CV](./cv4.pdf) · [LinkedIn](https://linkedin.com/in/joyesh-meshram) · [Email](mailto:polixonrio@gmail.com)
