@@ -1,4 +1,4 @@
-# Hi, I'm Joyesh 👋
+# Hi, I'm Joyesh (Josh)👋
 
 Newly graduated MSc Computer Science student from Aalborg University, based in Denmark.
 
